@@ -14,4 +14,4 @@ more useful for people without home charging and for urgent charging. xFC become
 important to drivers with longer BEV ranges, a finding that contradicts conventional thinking.
 
 ### Reference
-Li, W., Lin, Z., Ou, S. S., & Wang, B. (2023). Deployment priority of public charging speeds for increasing battery electric vehicle usability. Transportation Research Part D: Transport and Environment, 124, 103943.![image](https://github.com/wanli3301114/Cumulative-Public-Recharging-Model-CPR-/assets/26752511/3aac7ca6-2dfd-4494-9690-97f10788705f)
+Li, W., Lin, Z., Ou, S. S., & Wang, B. (2023). Deployment priority of public charging speeds for increasing battery electric vehicle usability. Transportation Research Part D: Transport and Environment, 124, 103943.
